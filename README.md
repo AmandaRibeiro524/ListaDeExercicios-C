@@ -1,4 +1,4 @@
-# ListaDeExercicios-C 
+# Lista De Exercicios 1
 ## Prof. Mário de Jesus-Estrutura de dados
 
 Desenvolver os programas na linguagem C.
