@@ -13,7 +13,7 @@ scanf("%i", &tempF);
 
 tempC = (5 * (tempF-32)/9);
 
-printf("A temperatura em Celcius e %.1i", tempC);
+printf("A temperatura em Celcius e %.1i C", tempC);
 return 0;
 
 }
